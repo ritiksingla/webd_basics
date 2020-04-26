@@ -1,0 +1,34 @@
+div button{
+	margin-bottom: 10px;
+	padding: 10px;
+	background:black;
+	color: white; 	
+	margin-left: 5px;
+		outline: none;
+}
+body{
+background-color: #FEA47F;
+color: #2C3A47;
+}
+button{
+	outline: none;
+	border:none;
+	border-radius: 20px;
+	padding: 10px;
+}
+button:hover
+{
+outline: none;
+width:150px;
+transition-delay: 2s;
+padding: 10px;
+}
+input{
+	outline: none;
+	color: #2C3A47;
+	border:none;
+	border-radius: 20px;
+	padding: 10px;
+
+
+}
