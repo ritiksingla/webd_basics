@@ -2,12 +2,12 @@
 
 - Slide Show
 
-![Slide Show](./screenshots/SlideShow.png)
+![Slide Show](./Screenshots/SlideShow.png)
 
 - Shopping List
 
-![Shopping List](./screenshots/ShoppingList.png)
+![Shopping List](./Screenshots/ShoppingList.png)
 
 - Stylish Form
 
-![Stylish Form](./screenshots/StylishForm.png)
+![Stylish Form](./Screenshots/StylishForm.png)
